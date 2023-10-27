@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 15px;
+}
+
+input {
+    width: 100px;
+    height: 35px;
+}
+
+.tartalom {
+    width: max-content;
+}
+
+.eredmeny {
+    border: 3px outset black;
+    background-color: #eceedc;
+    height: 150px;
+    margin-top: 5px;
+}
