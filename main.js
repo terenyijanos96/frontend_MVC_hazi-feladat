@@ -1,5 +1,5 @@
-import Controller from "./controller/Controller.js"
+import Controller from "./controller/Controller.js";
 
-$(function(){
-    new Controller();
-})    
+$(function () {
+  new Controller();
+});

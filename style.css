@@ -18,7 +18,11 @@ input {
 
 .eredmeny {
     border: 3px outset black;
-    background-color: #eceedc;
+    background: #eceedc;
     height: 150px;
+    width: 280px;
     margin-top: 5px;
+    resize: none;
+    color: black;
+    font-size: 1rem;
 }

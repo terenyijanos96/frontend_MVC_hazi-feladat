@@ -1,13 +1,9 @@
 class Model {
+  constructor() {}
 
-    constructor(){
-
-    }
-
-    osszeadas(a, b){
-        return a+b;
-    }
-
+  osszeadas(a, b) {
+    return a + b;
+  }
 }
 
-export default Model
+export default Model;
